@@ -6,7 +6,7 @@
 
 1.3 O Primeiro Problema: Cálculo do Valor do Estacionamento X
 
-1.4 Strategy: o Primeiro Padrão! 
+1.4 Strategy: o Primeiro Padrão! V
 
 1.5 O que são padrões? X
 
