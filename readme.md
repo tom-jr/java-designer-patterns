@@ -14,7 +14,7 @@
 
 ## 2. Reuso Através de Herança
 
-2.1 Exemplo de Padrão que Utiliza Herança - Null Object
+2.1 Exemplo de Padrão que Utiliza Herança - Null Object V
 
 2.2 Hook Methods 
 
