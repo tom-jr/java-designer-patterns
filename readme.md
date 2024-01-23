@@ -16,13 +16,13 @@
 
 2.1 Exemplo de Padrão que Utiliza Herança - Null Object V
 
-2.2 Hook Methods 
+2.2 Hook Methods V
 
-2.3 Revisando modificadores de métodos  
+2.3 Revisando modificadores de métodos  X
 
-2.4 Passos diferentes na Mesma Ordem - Template Method  
+2.4 Passos diferentes na Mesma Ordem - Template Method X
 
-2.5 Refatorando na Direção da Herança    
+2.5 Refatorando na Direção da Herança X
 
 2.6 Criando Objetos na Subclasse - Factory Method  
 
